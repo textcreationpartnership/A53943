@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Easter not mis-timed a letter written out of the countrey to a friend in London concerning Easter-Day.</title>
+            <author>Pell, John, 1611-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53943</idno>
+            <idno type="STC">Wing P1070</idno>
+            <idno type="STC">ESTC R19186</idno>
+            <idno type="EEBO-CITATION">13054398</idno>
+            <idno type="OCLC">ocm 13054398</idno>
+            <idno type="VID">96981</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96981)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 395:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Easter not mis-timed a letter written out of the countrey to a friend in London concerning Easter-Day.</title>
+                  <author>Pell, John, 1611-1685.</author>
+               </titleStmt>
+               <extent>[3], xi p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Timothy Garthwait ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by John Pell. Cf. BM.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Easter.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:96981:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <p>
+               <hi>Imprimatur;</hi> Atque imprimi forte neceſſe eſt, ut qui occaſionem Schiſmatis hinc illinc quaerunt, ſe ſciant nec hinc habere (niſi de ignorantiâ ſuâ aut mali<g ref="char:EOLhyphen"/>tiâ) quod querantur.</p>
+            <closer>
+               <dateline>
+                  <hi>Ex Aedib. Lambethan.</hi> 
+                  <date>
+                     <hi>April. 4. 1664.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>M. Frank</hi> S. T. P. R. in Chriſt. Pat. ac Dom. Archiepiſc. Cantuar. à Sacris Dom.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:96981:1"/>
+            <!-- PDF PAGE 30 -->
+            <p>EASTER not Miſ-timed.</p>
+            <p>A LETTER Written Out of the Countrey to a Friend IN LONDON Concerning EASTER-DAY.</p>
+            <figure>
+               <head>CR</head>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Timothy Garthwait</hi> at the Kings-head in St. <hi>Pauls</hi> Church-yard, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:96981:2"/>
+            <!-- PDF PAGE 31 -->
+            <pb n="I" facs="tcp:96981:2"/>
+            <!-- PDF PAGE 31 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Letter tells me, that you have met with very many men that ſay, <hi>We ought to keep Eaſter, this year, upon</hi> APRIL 3. <hi>though all our Engliſh Alma<g ref="char:EOLhyphen"/>nack-makers have placed it upon</hi> APRIL 10. Yet you cannot be of that opini<g ref="char:EOLhyphen"/>on, becauſe it ſeems unlikely that All our makers of Almanacks <hi>could</hi> be deceived in a thing of that nature, or that they <hi>would</hi> conſpire to miſs-lead the whole Na<g ref="char:EOLhyphen"/>tion, without any advantage to themſelves. You therefore deſire to know my minde concerning this Controverſie, and that ſo fully and cleerly expreſſed, as that it may enable you to eſcape undeceived by their ſeeming Reaſons.</p>
+            <p>To ſatisfie your deſire; In the firſt place, I anſwer, that, <hi>In England, for this year</hi> 1664, <hi>Eaſter ought to be kept upon the tenth of April.</hi> And that, becauſe no other day is deſigned by thoſe <hi>old Rules</hi> which hitherto <hi>England</hi>
+               <pb n="II" facs="tcp:96981:3"/>
+               <!-- PDF PAGE 32 -->hath alwayes followed: and our Superiours have not yet ſubſtituted <hi>New Rules,</hi> commanding us to uſe them in the place of the <hi>Old</hi> ones. Witneſs the <hi>Book of Common-Prayer</hi> printed in Folio at <hi>London</hi> 1662: Wherein the ſecond Page, before the beginning of Morning-Prayer, hath <hi>A Table to finde Eaſter for ever.</hi> Which Table had been often printed in the former Common-Prayer-Books; and by being re-printed, in the Edition of 1662, did ſufficiently ſhew that the Church of <hi>England</hi> had made no alteration for the time of celebrating <hi>Eaſter.</hi> That Tables title promi<g ref="char:EOLhyphen"/>ſeth to ſhew Eaſter <hi>for ever,</hi> onely in oppoſition to the <hi>Table of Moveable Feaſts</hi> in the fore-going Page, which teacheth to finde Eaſter <hi>for forty years onely:</hi> ſo that after the year 1700, it will be almoſt uſeleſs. Yet that <hi>Table of forty years</hi> will alwayes afford <hi>forty</hi> ex<g ref="char:EOLhyphen"/>amples of <hi>Eaſter</hi> found by the following Table and by the Precept under it. If, for exerciſe, you ſeek all thoſe <hi>forty Eaſters</hi> by the <hi>leſſer</hi> Table, you ſhall finde no other dayes then thoſe that are ſet down in the <hi>greater</hi> Table, in the column whoſe title is <hi>Eaſter-day.</hi> The aforeſaid Book of Common-Prayer hath <hi>two other</hi> old Touch-ſtones, by which the <hi>forty years Table</hi> may be tried; and (what<g ref="char:EOLhyphen"/>ſoever others tell you) the forty Eaſters of that Table will endure <hi>all thoſe three</hi> trials: and no difference will be found in them, if the Exami<g ref="char:EOLhyphen"/>ner have as much skill or ſagacity, as that Book
+<pb n="III" facs="tcp:96981:3"/>
+               <!-- PDF PAGE 32 -->requireth in thoſe that look after higher rules, and will not be content with the loweſt and eaſieſt ſort of Precepts. The <hi>forty years Table</hi> is fitted for mean underſtandings: But if men will queſtion the truth of that Table, or the firmneſs of the grounds of its calculation, let them not blame that <hi>Book,</hi> becauſe, for the ſatisfaction of their curioſity, it hath not other rules delivered in words ſollicitouſly weighed and conſidered, leſt ought ſhould be ſuperfluous, deficient or ambiguous. If the High way be open, ſtraight, plain, firm and ſafe; they that will run out of it, ſhould not blame the Surveyors, if all the declivities and brinks of Rivers be not fenced with Guarde<g ref="char:EOLhyphen"/>fous.</p>
+            <p>To come nearer to your Controverſie. All the Engliſh Almanacks place <hi>Eaſter</hi> upon <hi>April</hi> the <hi>tenth,</hi> this year. The Book of Common-Prayer, in its <hi>forty years Table,</hi> tells you that in 1664. <hi>Eaſter-day</hi> is <hi>April</hi> the <hi>tenth;</hi> yet ſome of your acquaintance ſay, We ought to keep it <hi>ſooner.</hi> How much <hi>ſooner? Ten dayes</hi> (ſay ſome, who know no difference between fixed and moveable Feaſts) <hi>France keeps Chriſtmaſs ten dayes before us</hi> in <hi>England, therefore it keeps Eaſter ſo too.</hi> But if you meet with any ſuch, tell them, That if the <hi>French</hi> keep Eaſter <hi>ten days</hi> before us, they muſt keep it on a <hi>Thurſ<g ref="char:EOLhyphen"/>day.</hi> The difference of Old and New Stile was in<g ref="char:EOLhyphen"/>troduced by skipping over <hi>ten dayes of the Moneth</hi> of <hi>October</hi> 1582; but keeping the names of the <hi>Week<g ref="char:EOLhyphen"/>dayes</hi> unchanged. And therefore both Stiles [calling
+<pb n="IV" facs="tcp:96981:4"/>
+               <!-- PDF PAGE 33 -->the ſame day Sunday, and keeping Eaſter upon Sun<g ref="char:EOLhyphen"/>day] muſt needs differ <hi>a juſt number of weeks,</hi> or not at all. Of the fourſcore Eaſters kept ſince 1583,
+<table>
+                  <row>
+                     <cell>
+                        <hi>Weeks</hi>
+                     </cell>
+                     <cell>
+                        <hi>Eaſters.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>0</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>1</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>4</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>5</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Summe 80</cell>
+                  </row>
+               </table> 36 differed not at all; 26 Roman Ea<g ref="char:EOLhyphen"/>ſters were a week before Ours, 5 were 4 weeks before ours, and 13 were 5 weeks before thoſe that were obſerved in <hi>England:</hi> as ſhall be particularly ſhewn hereafter, if need be. In all Roman-Catholick Countreys, except <hi>Valeſia,</hi> Eaſter<g ref="char:EOLhyphen"/>day will be kept upon their <hi>April</hi> 13., which we call <hi>Apr.</hi> 3, and ſo a week before us, this year 1664. But in the reſt of Chriſtendome, <hi>Holland</hi> and <hi>Zealand</hi> ex<g ref="char:EOLhyphen"/>cepted, this year, <hi>the tenth of April</hi> will be obſerved for an Eaſter-day, even in the remoteſt parts of <hi>Aſia</hi> and <hi>Africa.</hi> Becauſe they, as well as we, finde Eaſter-day by the Rules which were generally received by all Chriſtians <hi>Eleven hundred and thirty two years</hi> ago, and were obſerved by all Chriſtians ever ſince, till the year of our Lord 1583: when, in obedience to a Bull of Pope <hi>Gregory</hi> the Thirteenth, many Countries celebra<g ref="char:EOLhyphen"/>ted Eaſter, a <hi>fortnight ſooner</hi> then the reſt of Chriſten<g ref="char:EOLhyphen"/>dome. And ever ſince that year they have followed new Rules for the finding of Eaſter-day. Which Rules, 773 years hence, will give them an Eaſter-day ſix weeks before Ours: but, till then, none more then <hi>five</hi> weeks before us, as it was in 1663.</p>
+            <p>But I need not ſpeak any more of that Kalendar, and its new Rules, at this time; although you tell me
+<pb n="V" facs="tcp:96981:4"/>
+               <!-- PDF PAGE 33 -->that divers Roman Catholicks and Prieſts are eager pleaders for the third of <hi>April.</hi> I perceive that they pretend not to prove their Aſſertion, by ſaying <hi>It is ſo in the Roman Kalendar;</hi> For they know, that Kalen<g ref="char:EOLhyphen"/>dar is not yet publickly received in <hi>England.</hi> But they ſay <q>
+                  <hi>It muſt be ſo;</hi> becauſe in the Common-Prayer-Book printed 1662 there is this Rule,
+<q>Eaſter-day is alwayes the firſt Sunday af<g ref="char:EOLhyphen"/>ter the firſt full Moon, which happens next after the one and twentieth day of <hi>March.</hi>
+                  </q> But, ſay they, this year, that <hi>full Moon</hi> is on the one and thirtieth of <hi>March</hi> [a Thurſday;] after which, the <hi>firſt</hi> Sunday is the <hi>third</hi> of <hi>April;</hi> the <hi>ſecond</hi> Sun<g ref="char:EOLhyphen"/>day is the <hi>tenth</hi> of <hi>April.</hi> Therefore, according to this Rule, not <hi>April</hi> the <hi>tenth,</hi> but <hi>April</hi> the <hi>third</hi> muſt be Eaſter-day.</q> This were a ſufficient demonſtration, if the words <hi>full Moon</hi> had the ſame meaning in both places. But the FULL MOON meant in the Rule, this year, is no other then the <hi>fourth of April:</hi> Which being Munday, the firſt Sunday after it muſt needs be <hi>April</hi> 10, which, therefore, by this Rule, ſhall be Eaſter. If the Prieſts you write of, make difficulty to admit ſuch <hi>full Moons,</hi> pray them to ſearch their Grandfa<g ref="char:EOLhyphen"/>thers Libraries, till they have found the <hi>Maſs-book</hi> which was printed by <hi>Kingſton</hi> and <hi>Sutton,</hi> in <hi>Quarto,</hi> at <hi>London,</hi> in 1555, which was the ſecond year of Queen <hi>Mary.</hi> The Title of the Book is, <hi>Miſſale ad uſum Eccle<g ref="char:EOLhyphen"/>ſiae
+<pb n="VI" facs="tcp:96981:5"/>
+                  <!-- PDF PAGE 34 -->Sarisburienſis.</hi> The Title of the ſecond page is, <hi>Ex<g ref="char:EOLhyphen"/>tracta ex compoto.</hi> (<hi>computo</hi> they would have ſaid.) It contains no ſuch Table of moveable Feaſts readily cal<g ref="char:EOLhyphen"/>culated, as our Liturgies are wont to have; but in ſtead of it, there are Rules for finding the Dominical Letters, the Leap-years, the Moveable-Feaſts, the New Moons and Eaſter. Eaſter-day is there found by New or Full Moons, with theſe directions,
+<q>
+                  <l>Carmina docentia per novilunia invenire Paſcha.</l>
+                  <l>Poſt regum feſta, quaere novilunia trina</l>
+                  <l>Poſt dominica tertia, Paſcha ſacrum celebra.</l>
+                  <l>
+                     <hi>Aliud.</hi> Poſt veris Aequinoctium Quaere plenilunium:</l>
+                  <l>Et Dominica proxima ſacrum celebra Paſcha</l>
+                  <l>Non verius invenies, Si mille legas codices.</l>
+               </q>
+            </p>
+            <p>The <hi>New</hi> Moon meant in thoſe verſes is not ſuch as our Almanacks now profeſs to give us, namely the hour and minute of the <hi>true</hi> Conjunction of the Sun and Moon. But it is onely the day of the Moons <hi>mean</hi> Conjunction, as it was above 1300 years ago; and is there found, meerly by taking the day againſt which the propoſed years Golden Number ſtands in the margin of each month. For that Computiſt knew well enough that that day would be four days after the New Moon of his own time; and therefore bids us begin at the day ſo found, and tell up wards a ſyllable to each day, ſaying <hi>In Coelis eſt hic;</hi> The ſyl<g ref="char:EOLhyphen"/>lable <hi>hic</hi> will fall four days above your Golden Num<g ref="char:EOLhyphen"/>ber,
+<pb n="VII" facs="tcp:96981:5"/>
+               <!-- PDF PAGE 34 -->and there ſhew you the day of New Moon for your time.</p>
+            <p>The <hi>full</hi> Moons meant in the ſame Verſes are not ſo much as preciſe <hi>days</hi> of mean oppoſition of Sun and Moon, but are to be found in this plain manner. To the day of that ancient New Moon found by the Golden Number, add 13: So have you the 14<hi rend="sup">th</hi> day of that Eccleſiaſtical Cyclic month; Which day <hi>Victorius</hi> (who flouriſhed 1200 years ago) did call the <hi>Full Moon,</hi> and a great many others, after him, cal<g ref="char:EOLhyphen"/>led it ſo.</p>
+            <p>If you have not that <hi>Miſſale,</hi> you may try its rules in any other Book that hath the golden numbers ſet in the margin of each month, like that Miſſal; (as if 3 ſtand againſt the firſt of <hi>March,</hi> and 13 againſt the laſt of <hi>December.</hi>) Such were <hi>Henry</hi> the <hi>Eight's Bible</hi> printed 1540; <hi>Edward</hi> the <hi>Sixth's Common-prayer-Book,</hi> printed 1552; (for that of 1549 had no manner of direction to finde moveable Feaſts) <hi>Orarium ſeu libellus precationum,</hi> publiſhed by Queen <hi>Elizabeth,</hi> 1560. I cannot tell you when the Golden numbers were firſt put up 4 days higher, to ſave men the labour of u<g ref="char:EOLhyphen"/>ſing <hi>In coelis eſt hic.</hi> I finde them ſo high in the <hi>Com<g ref="char:EOLhyphen"/>mon prayer</hi> Book printed at <hi>Edinburg</hi> 1637; as alſo in the great <hi>Church-Bible</hi> printed at <hi>London</hi> 1640. But in the <hi>Common prayer Book</hi> printed in follo 1662, thoſe Golden numbers are reſtored to the places which they had in King <hi>Henry's</hi> Bible, King <hi>Edward's</hi> Litur<g ref="char:EOLhyphen"/>gy, Queen <hi>Mary's</hi> Miſſal, and Queen <hi>Elizabeth's Ora<g ref="char:EOLhyphen"/>rium,</hi>
+               <pb n="VIII" facs="tcp:96981:6"/>
+               <!-- PDF PAGE 35 -->except ſome few faults. But you will finde no Rubrick to tell you to what end they were ſet there. I will therefore here tell you ſome uſe of them.</p>
+            <p>The Golden Number of any year, ſet to ſome day between <hi>March</hi> 7 and <hi>Aprill</hi> 6, ſhews that day to be the Eccleſiaſtical beginning of that year. For when the Emperour <hi>Conſtantine</hi> had ſet an end to the cruel perſecutions of the Chriſtians, and had called that great <hi>Council</hi> of Biſhops to <hi>Nicaea</hi> in <hi>Bithynia;</hi> They (abhorring thoſe outrageous quarrels, and ſhameful diſagreements which had been among Chriſtians concerning the time of keeping Eaſter) did decree that thenceforth All Chriſtians ſhould, in remembrance of our Saviours Reſurrection, ce<g ref="char:EOLhyphen"/>lebrate Eaſter upon the firſt Sunday after the four<g ref="char:EOLhyphen"/>teenth day of the firſt month: becauſe the holy Scriptures bear witneſs, that our Lord did ariſe upon the firſt Sunday after the Jews Paſs-over: And that their Paſs-over Lamb was to be killed and eaten on the fourteenth day of the firſt month; which months were <hi>Lunar,</hi> and always began with the New Moons. The Aſtronomical ſpring, that is, the Vernal Aequi<g ref="char:EOLhyphen"/>noctial, fell always before the middle of their <hi>firſt</hi> month <hi>Niſan.</hi> (For, the month, whoſe middle fell be<g ref="char:EOLhyphen"/>fore the Vernal Equinox, they accounted the <hi>laſt</hi> month of the preceding year) But becauſe this Decree would be ill obſerved, if all men were left to their little skill in the courſes of the Sun and Moon, the Fathers of that Council referred the whole buſineſs
+<pb n="IX" facs="tcp:96981:6"/>
+               <!-- PDF PAGE 35 -->to the Church of <hi>Alexandria;</hi> wherein at that time were more and better Aſtronomers, than in any other part of the world. Yet the reſt of Chri<g ref="char:EOLhyphen"/>ſtendom grew weary of depending upon <hi>Alexan<g ref="char:EOLhyphen"/>dria,</hi> and yearly expecting Letters from thence, to tell them when they were to begin their <hi>Lent,</hi> and to celebrate <hi>Eaſter.</hi> Which Letters often miſ-carrying, men grew impatient, and offered at ſeveral rules to enable men to find <hi>Eaſter</hi> day ac<g ref="char:EOLhyphen"/>cording to the <hi>Nicene</hi> Decree, without the help of <hi>Alexandria.</hi> But none had the hap to be general<g ref="char:EOLhyphen"/>ly liked, till one <hi>Dionyſius Exiguus,</hi> in the time of the Emperor <hi>Juſtinian,</hi> fitted them with a Cycle of 532. years, which received univerſal appro<g ref="char:EOLhyphen"/>bation, and in ſhort time, was every where re<g ref="char:EOLhyphen"/>ceived; and is in uſe in <hi>England</hi> at this day.</p>
+            <p>The grounds of this Cycle are theſe. <hi>March</hi> 21. was then accounted the day of the Vernal Equi<g ref="char:EOLhyphen"/>nox. If this be the earlieſt fourteenth day of the month, then <hi>March</hi> 8. muſt be the earlieſt New Moon that can be admitted for a Firſt month, or a beginner of the Eccleſiaſtical year. The next years <hi>Firſt</hi> month will begin <hi>March</hi> 27. and ſo forth in this order,
+<table>
+                  <row>
+                     <cell>
+                        <hi>March.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Ap.</hi>
+                     </cell>
+                     <cell>
+                        <hi>March. March. March.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Ap.</hi>
+                     </cell>
+                     <cell>
+                        <hi>March</hi>
+                     </cell>
+                     <cell>
+                        <hi>Ap.</hi>
+                     </cell>
+                     <cell>
+                        <hi>March. March.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>8. 27. 16.</cell>
+                     <cell>4.</cell>
+                     <cell>23. 12. 31. 20. 9. 28. 17.</cell>
+                     <cell>5.</cell>
+                     <cell>25. 14.</cell>
+                     <cell>2.</cell>
+                     <cell>22. 11. 30. 19.</cell>
+                  </row>
+               </table> and then <hi>March</hi> 8. again as at the firſt; The Moons returning after 19. years, as the Greeks
+<pb n="X" facs="tcp:96981:7"/>
+               <!-- PDF PAGE 36 -->had been taught long before they were Chriſti<g ref="char:EOLhyphen"/>ans.</p>
+            <p>I have not now time to tell you why theſe 19. ſeveral beginnings of the <hi>Firſt</hi> month were not reckoned in this Order; for they accounted that year, the firſt of the Cycle, whoſe New Moon fell upon <hi>March</hi> 23. ſo that <hi>March</hi> the 8. begins the 16. year; and accordingly, in <hi>March</hi> and <hi>April,</hi> the New Edition of the Liturgy in Folio hath a Red 16. ſtanding againſt <hi>March</hi> 8. and 17. againſt <hi>March</hi> 27. &amp;c. Whence it is eaſie to draw ſuch a Table as this,
+<table>
+                  <row>
+                     <cell>
+                        <hi>Golden Number.</hi>
+                     </cell>
+                     <cell>16. 5. 13. 2. 10. 18. 7.</cell>
+                     <cell>16. 4. 12. 1. 9. 17. 6. 14. 3.</cell>
+                     <cell>11. 19. 8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Firſt day</hi>
+                     </cell>
+                     <cell>
+                        <hi>Mar.</hi> 8. 9. 11. 12. 14. 16. 17.</cell>
+                     <cell>19. 20. 22. 23. 25. 27. 28. 30. 31</cell>
+                     <cell>
+                        <hi>Ap.</hi> 2. 4. 5</cell>
+                  </row>
+                  <row>
+                     <cell>14. <hi>day</hi>
+                     </cell>
+                     <cell>
+                        <hi>Mar.</hi> 21. 22. 24. 25. 27. 29. 30.</cell>
+                     <cell>
+                        <hi>Ap.</hi> 1. 2. 4. 5. 7. 9. 10. 12. 13</cell>
+                     <cell>15. 17. 18</cell>
+                  </row>
+               </table> And thus we have found the 19. Eaſter limits. <hi>Terminus Paſchalis,</hi> ſaith <hi>Scaliger, eſt quarta decima Luna menſis Paſchalis Chriſtiani ſeculo Conſtantini Magni.</hi> It is ſo called, becauſe, as <hi>November</hi> 26. is always the limit for <hi>Advent,</hi> upon which day <hi>Advent Sunday</hi> never falls, but as ſoon after as may be; ſo every year hath a different limit for <hi>Eaſter,</hi> upon which limit <hi>Eaſter</hi> muſt not be kept, though it be Sunday; but on the firſt Sunday after the li<g ref="char:EOLhyphen"/>mit. As this year 1664. the Golden Number is 12. and therefore by the foregoing Table, this years <hi>Eaſter</hi> limit is <hi>April</hi> 4. which being Munday, the next Sunday after muſt needs be <hi>April</hi> 10.
+<pb n="XI" facs="tcp:96981:7"/>
+               <!-- PDF PAGE 36 -->And that muſt be <hi>Eaſter</hi> day this year 1664. If you would ſeek it by the <hi>Table</hi> which teacheth <hi>to find Eaſter for ever,</hi> you muſt enter it with the Golden number 12. and the Sunday letter B (for the other letter C ſhews not Sunday after <hi>Matthias</hi> day) you will find <hi>April</hi> 10. as before.</p>
+            <p>So that the <hi>Eaſter</hi> day of 1664. is found to be the tenth of <hi>April</hi> by all the four ways of finding, taught in the Common-Prayer-Book; namely, The <hi>Red</hi> numbers in the Kalendar; The <hi>Rule</hi> next after the end of the Kalendar; The <hi>Table</hi> for forty years; And the <hi>Table</hi> to find <hi>Eaſter</hi> for ever.</p>
+            <p>If you doubt of the ſenſe or truth of what I have here haſtily written, let your next Letter tell me what it is you ſtick at, I ſhall endeavour to re<g ref="char:EOLhyphen"/>move it, as being</p>
+            <closer>
+               <salute>Sir </salute> 
+               <signed>
+                  <hi>Your,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
